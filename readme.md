@@ -4,7 +4,7 @@
 ## Description
 landing portfolio -this is a webpage providing a short description of the author
 ## Setup
-* This landing portfolio can be accessed by following this link :
+* This landing portfolio can be accessed by following this link :https://github.com/paulgaiti97/my-landing-portfolio.git
 
 on accessing the webpage , navigation has been eased through a navigation bar that will guide you through all sections
 
