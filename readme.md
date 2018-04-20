@@ -1,22 +1,22 @@
-# {PAUL GAITI NDICHU}
-#### {My landing portfolio}, {friday 4/20/2018}
+# PAUL GAITI NDICHU
+#### friday 4/20/2018
 #### author- paul gaiti ndichu
 ## Description
-{this is a webpage providing a short description of the author}
+landing portfolio -this is a webpage providing a short description of the author
 ## Setup
 * This landing portfolio can be accessed by following this link :
 
 on accessing the webpage , navigation has been eased through a navigation bar that will guide you through all sections
 
 ## Technologies Used
-{this project employed the use of HTML AND CSS.}
+this project employed the use of HTML AND CSS.
 ## Support and contact details
-{Incase of any issues or queries whatsoever please contact me via my email - paulgaiti23@gmail.com
-  or paulgaiti.slack.com }
+Incase of any issues or queries whatsoever please contact me via my email - paulgaiti23@gmail.com
+or paulgaiti.slack.com
 ### License
 MIT License
 
-Copyright (c) [year] [PAUL GAITI NDICHU]
+Copyright (c) 2018 PAUL GAITI NDICHU
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,4 +35,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) {year} {paulgaiti}
+Copyright (c) 2018 paulgaiti

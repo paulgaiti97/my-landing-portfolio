@@ -5,13 +5,14 @@ body
     background-size: cover;
     background-position: center;
   }
-.heading img
-  {
-    width: 50%;
-    height: 50%;
-    border-radius: 100%;
-    font-family: sans-serif;
-  }
+.heading
+{
+font-family:sans-serif;
+font-weight: bold;
+font-style: italic;
+color: gray;
+margin-top: 30px;
+}
 .about-me
   {
     background-color: gray;
