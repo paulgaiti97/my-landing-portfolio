@@ -1,0 +1,72 @@
+body
+  {
+
+    background-image: url('../images/gaiti.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+.heading img
+  {
+    width: 50%;
+    height: 50%;
+    border-radius: 100%;
+    font-family: sans-serif;
+  }
+.about-me
+  {
+    background-color: gray;
+    margin-right:50px;
+    margin-left :50px;
+    margin-top: 370px;
+    center;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: sans-serif;
+  }
+.my-projects
+  {
+    background-color: gray;
+    margin-right:50px;
+    margin-left :50px;
+    margin-top: 150px;
+    center;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: sans-serif;
+  }
+
+.contacts
+  {
+    background-color: gray;
+    margin-right:50px;
+    margin-left :50px;
+    margin-top: 50px;
+    center;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: sans-serif;
+  }
+.education-background
+  {
+    background-color: gray;
+    margin-right:50px;
+    margin-left :50px;
+    margin-top: 50px;
+    center;padding: 5px;
+    border-radius: 20px;
+    font-family: sans-serif;
+  }
+
+.nav {
+    padding: 15px;
+    list-style-type: none;
+    text-align: center;
+  }
+.nav li {
+    color: gray;
+    display: inline-block;
+    font-size: 20px;
+    font-family:sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
